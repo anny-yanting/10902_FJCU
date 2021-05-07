@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1616935125 source:c:\users\yanting\desktop\ball_game-master\ball_game-master\agent_dll\agent_dll.cpp
-	"agent_dll.h"
-	<bits/stdc++.h>
-
-1616594213 c:\users\yanting\desktop\ball_game-master\ball_game-master\agent_dll\agent_dll.h
-	<windows.h>
-
